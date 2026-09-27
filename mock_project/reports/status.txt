@@ -1,0 +1,2 @@
+Synthetic report placeholder.
+No production metrics are included.

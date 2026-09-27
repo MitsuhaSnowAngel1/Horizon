@@ -1,0 +1,5 @@
+{
+  "synthetic": true,
+  "method": "GET",
+  "path": "/demo/status"
+}
