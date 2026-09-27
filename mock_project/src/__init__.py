@@ -1,0 +1,1 @@
+"""Synthetic demo project source package."""

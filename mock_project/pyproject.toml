@@ -1,0 +1,5 @@
+[project]
+name = "horizon-mock-project"
+version = "0.1.0"
+description = "Synthetic project fixture for repository examples"
+requires-python = ">=3.10"
